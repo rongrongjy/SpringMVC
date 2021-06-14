@@ -1,0 +1,6 @@
+# Project exclude paths
+/out/
+/spring-01-serlvet/target/
+/springmvc-02-hellomvc/target/
+/springmvc-03-annotation/target/
+/springmvc-05-json/target/
